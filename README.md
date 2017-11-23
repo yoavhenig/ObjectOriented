@@ -1,1 +1,3 @@
-# matala0
+The program recive Data and details about WIFI dots at specific travel or specific area as a cmv file.
+The program build a new classes for every WIFI spot and Sort the spots by signal/ id/ coordinates...
+The program create a kml file whith all the data and details.
